@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/myOrderXml"
+        android:title="My Order"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_basket"/>
+    <item
+        android:id="@+id/homeXml"
+        android:title="Home"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_home"
+        />
+
+</menu>

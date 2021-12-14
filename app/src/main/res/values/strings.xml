@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Binus EzyFoody</string>
+    <string-array name="title">
+        <item>Drink</item>
+        <item>Snack</item>
+        <item>Food</item>
+        <item>Top Up</item>
+    </string-array>
+
+    <string-array name="drinkname">
+        <item>Brown Sugar Boba</item>
+        <item>Choco Milk</item>
+        <item>Manggo Juice</item>
+        <item>Mocha Latte</item>
+        <item>Strawberry Smoothie</item>
+        <item>Teh Poci</item>
+        <item>Teh Tarik</item>
+        <item>Teh Botol</item>
+    </string-array>
+
+
+    <string-array name="snackName">
+        <item>Beng Beng</item>
+        <item>Cheetos</item>
+        <item>Chitato Ayam Bakar</item>
+        <item>Chitato Mie Goreng</item>
+        <item>Lays</item>
+        <item>Milo Snack Bar</item>
+        <item>SilverQueen</item>
+        <item>SilverQueen Crispy</item>
+    </string-array>
+
+    <string-array name="foodkName">
+        <item>Spatchocked Grilled Chicken</item>
+        <item>Molassess Glazed Chicken</item>
+        <item>Veghakka Noodles</item>
+        <item>Shirataki Noodles</item>
+        <item>Kimchi Noodles</item>
+        <item>Minestrone Soup</item>
+    </string-array>
+
+    <string-array name="drinkPrice">
+        <item>"Rp 18.000</item>
+        <item>"Rp 21.800</item>
+        <item>"Rp 19.000</item>
+        <item>"Rp 20.300</item>
+        <item>"Rp 22.000</item>
+        <item>"Rp 10.000</item>
+        <item>"Rp 18.500</item>
+        <item>"Rp 12.000</item>
+    </string-array>
+
+    <string-array name="snackPrice">
+        <item>"Rp 2.000</item>
+        <item>"Rp 11.800</item>
+        <item>"Rp 13.200</item>
+        <item>"Rp 26.200</item>
+        <item>"Rp 8.000</item>
+        <item>"Rp 8.000</item>
+        <item>"Rp 14.700</item>
+        <item>"Rp 15.000</item>
+    </string-array>
+
+    <string-array name="foodPrice">
+        <item>"Rp 45.000</item>
+        <item>"Rp 55.500</item>
+        <item>"Rp 35.700</item>
+        <item>"Rp 26.000</item>
+        <item>"Rp 33.000</item>
+        <item>"Rp 38.000</item>
+    </string-array>
+
+
+
+
+</resources>

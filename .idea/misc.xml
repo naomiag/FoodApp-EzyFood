@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef - Copy/app/src/main/res/layout/order_complete_activity.xml" value="0.21603260869565216" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26614583333333336" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/drawable/ic_baseline_fastfood_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/drawable/ic_launcherNew_foreground.xml" value="0.26614583333333336" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/drawable/ic_launcher_new_foreground.xml" value="0.14427083333333332" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/layout/activity_main2.xml" value="0.2341485507246377" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/layout/card.xml" value="0.6" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/layout/complete_card.xml" value="0.536" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/layout/drink_activity.xml" value="0.4" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/layout/maintitle.xml" value="0.32073011734028684" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/layout/myirder_card.xml" value="0.2" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/layout/myorder_activity.xml" value="0.264" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/layout/myorder_card.xml" value="0.4" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/layout/order_actiity.xml" value="0.5410526315789473" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/layout/order_activity.xml" value="0.4" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/layout/order_complete_activity.xml" value="0.5197802197802198" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/layout/welcome.xml" value="0.176" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/menu/main_layout.xml" value="0.25" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/menu/menu_layout.xml" value="0.25" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/menu/pay_layout.xml" value="0.25" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26614583333333336" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/mipmap-anydpi-v26/ic_launcherNew.xml" value="0.26614583333333336" />
+        <entry key="..\:/Documents/Binus/#SEM 5/#Mobile Programming/Project/Ef/app/src/main/res/mipmap-anydpi-v26/ic_launcherNew_round.xml" value="0.14375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
